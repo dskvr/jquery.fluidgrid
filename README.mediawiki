@@ -1,3 +1,5 @@
+== jQuery Fluid Grid ==
+
 === Description ===
 
 Fluid Grid allows to create responsive fluid layouts which are created from columns / gutters of varying widths.
