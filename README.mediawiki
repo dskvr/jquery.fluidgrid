@@ -1,0 +1,14 @@
+=== Description ===
+
+Fluid Grid allows to create responsive fluid layouts which are created from columns / gutters of varying widths.
+
+=== Features ===
+
+* Support for 1 - 12 column grid. Column's width is specified by ratio, e.g. 1/2, 3/4, 5/8, etc. 
+* The width of layout container can be set to any pixel.
+* All columns within the same row have equal height even if the amount of content differs for each column.
+* Column's height gets ajusted automatically during window resizing or AJAX updates.
+* "Sticky Scroll" feature - every column  can "stick" within visible window area when user scrolling the page.
+* Theme awareness - support for jQuery ThemeRoller.
+
+=== Getting Started ===
