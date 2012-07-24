@@ -4,11 +4,22 @@ jQuery Fluid Grid allows to create responsive fluid layouts which are created fr
 
 === Features ===
 
-* Support for 1 - 12 column grid. Column's width is specified by ratio, e.g. 1/2, 3/4, 5/8, etc. 
+* Support for 1 - 12 column grid. Column's width is specified by ratio, e.g. 1/2, 3/4, 5/8, etc.
+* Support for nested grids - grid in grid.
 * The width of layout container can be set to any pixel.
 * All columns within the same row have equal height even if the amount of content differs for each column.
 * Column's height gets ajusted automatically during window resizing or AJAX updates.
 * "Sticky Scroll" feature - every column  can "stick" within visible window area when user scrolling the page.
 * Theme awareness - support for jQuery ThemeRoller.
 
-=== Getting Started ===
+=== Usage ===
+
+TODO
+
+=== Browser compatibility ===
+
+This plugin is tested and compatible with IE8+, latest Firefox, Google Chrome and Safari.
+
+=== License ===
+
+The source code is licensed under the Apache License 2.0 and can be used free in private and commercial projects. Have fun with it.
